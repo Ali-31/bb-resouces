@@ -18,6 +18,7 @@ Some resources for learning and updating your methodology.
 | https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-3-3b987f24ab27 | `Recon` |
 | https://portswigger.net/research/how-to-turn-security-research-into-profit | `Misc` |
 | https://muhdaffa.medium.com/maximizing-the-potential-of-the-subfinder-562fc7e7e9e4 | `Recon` |
+| https://dhiyaneshgeek.github.io/research,bug/bounty/2024/01/03/subfinder-securitytrails/?s=09 | `Recone` |
 | https://medium.com/@giedrius.saulenas/the-160-hours-bug-bounty-hunting-challenge-bug-hacking-48c2550461b7 | `Misc` |
 | https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md | `SSRF` |
 | https://medium.com/@G0ds0nXY/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed | `Authorization Bypass` `403 Bypass` |
