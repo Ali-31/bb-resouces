@@ -4,8 +4,8 @@ Some resources for learning and updating your methodology.
 
 ## Write-ups
 
-| Link  | Tags |
-| :------------- | ------------- |
+| Link  | Tags | Cheked |
+| :------------- | ------------- | -------------- | 
 | https://ysamm.com/?p=763 | `XSS` `OAuth` |
 | https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36 | `PII` `IDOR` |
 | https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd | `Recon` `React` |
@@ -13,13 +13,13 @@ Some resources for learning and updating your methodology.
 | https://samcurry.net/hacking-starbucks/ | `Proxy` `Path Traversal` |
 | https://whitton.io/articles/uber-turning-self-xss-into-good-xss/ | `XSS` |
 | https://www.youtube.com/watch?v=HnI0w156rtw | `Click Jacking` |
-| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8 | `Recon` |
-| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7 | `Recon` |
-| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-3-3b987f24ab27 | `Recon` |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8 | `Recon` | :white_check_mark: |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7 | `Recon` | :white_check_mark: |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-3-3b987f24ab27 | `Recon` | :white_check_mark: |
 | https://portswigger.net/research/how-to-turn-security-research-into-profit | `Misc` |
-| https://muhdaffa.medium.com/maximizing-the-potential-of-the-subfinder-562fc7e7e9e4 | `Recon` |
-| https://dhiyaneshgeek.github.io/research,bug/bounty/2024/01/03/subfinder-securitytrails/?s=09 | `Recone` |
-| https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/ | `Recone` |
+| https://muhdaffa.medium.com/maximizing-the-potential-of-the-subfinder-562fc7e7e9e4 | `Recon` | :white_check_mark: |
+| https://dhiyaneshgeek.github.io/research,bug/bounty/2024/01/03/subfinder-securitytrails/?s=09 | `Recone` | :white_check_mark: |
+| https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/ | `Recone` | :white_check_mark: |
 | https://medium.com/@giedrius.saulenas/the-160-hours-bug-bounty-hunting-challenge-bug-hacking-48c2550461b7 | `Misc` |
 | https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md | `SSRF` |
 | https://medium.com/@G0ds0nXY/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed | `Authorization Bypass` `403 Bypass` |
