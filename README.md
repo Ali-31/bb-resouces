@@ -22,7 +22,8 @@ Some resources for learning and updating your methodology.
 | https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/ | `Recon` | :white_check_mark: |
 | https://medium.com/taptuit/minifying-xss-f17d7dc241cf | `XSS` | :white_check_mark: :recycle: |
 | https://infosecwriteups.com/mass-hunting-blind-xss-practical-techniques-182c422d773e | `XSS` | :white_check_mark: :recycle: |
-| https:/infosecwriteups.com/mass-blind-server-side-testing-setup-for-bug-bounty-fa03213b1ec9 | `XSS` | :white_check_mark: :recycle: |
+| https://infosecwriteups.com/mass-blind-server-side-testing-setup-for-bug-bounty-fa03213b1ec9 | `XSS` | :white_check_mark: :recycle: |
+| https://rivalsec.github.io/blog/2022/12/02/meteor.html | `Subdomain takover` | :white_check_mark: :recycle: |
 | https://medium.com/@giedrius.saulenas/the-160-hours-bug-bounty-hunting-challenge-bug-hacking-48c2550461b7 | `Misc` |
 | https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md | `SSRF` |
 | https://medium.com/@G0ds0nXY/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed | `Authorization Bypass` `403 Bypass` |
